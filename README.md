@@ -16,6 +16,8 @@ Running...
 dirname in unpacked /path/to/electron-asar-dirname-issue/out/app.asar/unpacked
 ```
 
+**Expected:** Path should point to `app.asar.unpacked`
+
 ## LICENSE
 
 Public domain.
