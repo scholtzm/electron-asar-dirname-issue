@@ -6,7 +6,7 @@
 
 1. `git clone` this repo
 2. `npm i`
-3. `npm run package`
+3. `npm run pack`
 4. `npm start`
 
 ## Output

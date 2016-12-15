@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "electron ./out/app.asar",
-    "package": "rimraf ./out && asar pack . ./out/app.asar --unpack-dir 'unpacked'"
+    "pack": "rimraf ./out && asar pack . ./out/app.asar --unpack-dir 'unpacked'"
   },
   "devDependencies": {
     "asar": "^0.12.3",
